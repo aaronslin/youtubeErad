@@ -1,0 +1,10 @@
+{
+  "content_scripts": [ {
+      "js": [ "jquery.min.js", "demote.js" ],
+      "matches": [ "*://www.youtube.com/*"],
+      "run_at": "document_idle"
+  } ],
+  "manifest_version": 2,
+  "name": "Youtube Recommendations Eradicator",
+  "version": "0.0"
+}
