@@ -1,7 +1,6 @@
-#feed-main-what_to_watch {
-	display: none;
+ytd-two-column-browse-results-renderer {
+	z-index: -1;
 }
-
-#watch7-sidebar-contents {
-	display: none;
+#related {
+	z-index: -1;
 }
