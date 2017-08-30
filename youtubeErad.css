@@ -1,4 +1,4 @@
-ytd-two-column-browse-results-renderer {
+ytd-browse[page-subtype="home"] {
 	z-index: -1;
 }
 #related {
